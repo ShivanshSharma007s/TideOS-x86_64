@@ -1,0 +1,1 @@
+TideOS is a custom 64-bit x86 operating system developed from scratch using C and x86-64 assembly. It features Multiboot2 support, paging, IDT/ISR-based interrupt handling, PS/2 keyboard and mouse drivers, and a VGA text-mode GUI with an interactive shell.
